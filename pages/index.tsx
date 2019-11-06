@@ -1,4 +1,4 @@
-import config from "./config";
+import config from "../config";
 const CosmosClient = require('@azure/cosmos').CosmosClient;
 
 interface Props {
